@@ -25,6 +25,8 @@ End the program.
 
 ## PROGRAM:
 ```
+#Devolped By: NaveenKumar P
+#Ref no:22009215
 with open('sample.txt','r') as file1:
     with open ('san1.txt','a') as file2:
         for line in file1:
